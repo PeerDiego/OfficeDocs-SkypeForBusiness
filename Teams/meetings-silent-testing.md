@@ -133,10 +133,10 @@ it up:
 - Download and configure using:
 
   - [Set up CQD Power BI
-    Connector](https://learn.microsoft.com/en-us/microsoftteams/cqd-power-bi-connector)
+    Connector](/microsoftteams/cqd-power-bi-connector)
 
   - [CQD Power BI Query
-    Templates](https://learn.microsoft.com/en-us/microsoftteams/cqd-power-bi-query-templates)
+    Templates](/microsoftteams/cqd-power-bi-query-templates)
 
 Reports
 
